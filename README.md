@@ -7,4 +7,4 @@ MusicShop(withBootstrap) projemde READEME.md, index.html, hakkimizda.html, urun.
 <hr>
 
 
-![project-gif](./2022-07-15-16-01-24.gif)
+![project-gif](./project.gif)
