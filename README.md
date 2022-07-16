@@ -6,5 +6,17 @@ MusicShop(withBootstrap) projemde READEME.md, index.html, hakkimizda.html, urun.
 
 <hr>
 
-
 ![project-gif](./project.gif)
+
+<hr>
+
+# İnstallation
+
+```
+https://github.com/reozmen/MusicShop_withBootstrap.git
+```
+
+
+# Published Project
+
+[MusicShop(withBootstrap](https://reozmen.github.io/MusicShop_withBootstrap/)
